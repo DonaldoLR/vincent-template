@@ -1,0 +1,29 @@
+{
+	"name": "starter-template",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"start": "npm start && gulp"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/DonaldoLR/starter-template.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/DonaldoLR/starter-template/issues"
+	},
+	"homepage": "https://github.com/DonaldoLR/starter-template#readme",
+	"dependencies": {
+		"gulp": "^4.0.2",
+		"gulp-autoprefixer": "^9.0.0",
+		"gulp-clean-css": "^4.3.0",
+		"gulp-sass": "^5.1.0",
+		"gulp-terser": "^2.1.0",
+		"sass": "^1.70.0"
+	}
+}
