@@ -1,5 +1,5 @@
 {
-	"name": "starter-template",
+	"name": "vincent-template",
 	"version": "1.0.0",
 	"description": "",
 	"main": "index.js",
@@ -9,15 +9,15 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/DonaldoLR/starter-template.git"
+		"url": "git+https://github.com/DonaldoLR/vincent-template.git"
 	},
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/DonaldoLR/starter-template/issues"
+		"url": "https://github.com/DonaldoLR/vincent-template/issues"
 	},
-	"homepage": "https://github.com/DonaldoLR/starter-template#readme",
+	"homepage": "https://github.com/DonaldoLR/vincent-template#readme",
 	"dependencies": {
 		"gulp": "^4.0.2",
 		"gulp-autoprefixer": "^9.0.0",
